@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCore_Email", "AspCore_Email\AspCore_Email.csproj", "{CC9567A4-B20B-4DB4-B965-810A3FD7B88A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9567A4-B20B-4DB4-B965-810A3FD7B88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9567A4-B20B-4DB4-B965-810A3FD7B88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9567A4-B20B-4DB4-B965-810A3FD7B88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9567A4-B20B-4DB4-B965-810A3FD7B88A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB2B0CE-F638-46E0-98B4-8EC2654CB28A}
+	EndGlobalSection
+EndGlobal
